@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakanocal
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and desktop development
 - 🌱 I’m currently learning some web development programming languages.
 
 
